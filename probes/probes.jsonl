@@ -1,0 +1,7 @@
+{"input": "", "expect": "", "task": "reverse-string", "lang": "python"}
+{"input": "robot", "expect": "tobor", "task": "reverse-string", "lang": "python"}
+{"input": "Ramen", "expect": "nemaR", "task": "reverse-string", "lang": "python"}
+{"input": "I'm hungry!", "expect": "!yrgnuh m'I", "task": "reverse-string", "lang": "python"}
+{"input": "racecar", "expect": "racecar", "task": "reverse-string", "lang": "python"}
+{"input": "drawer", "expect": "reward", "task": "reverse-string", "lang": "python"}
+{"input": "子猫", "expect": "猫子", "task": "reverse-string", "lang": "python"}
